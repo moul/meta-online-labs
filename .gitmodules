@@ -1,0 +1,111 @@
+[submodule "doc.cloud.online.net"]
+	path = doc.cloud.online.net
+	url = https://github.com/online-labs/doc.cloud.online.net.git
+[submodule "image-alpine"]
+	path = image-alpine
+	url = https://github.com/online-labs/image-alpine.git
+[submodule "image-app-coreos"]
+	path = image-app-coreos
+	url = https://github.com/online-labs/image-app-coreos.git
+[submodule "image-app-docker"]
+	path = image-app-docker
+	url = https://github.com/online-labs/image-app-docker.git
+[submodule "image-app-ghost"]
+	path = image-app-ghost
+	url = https://github.com/online-labs/image-app-ghost.git
+[submodule "image-app-mesos"]
+	path = image-app-mesos
+	url = https://github.com/online-labs/image-app-mesos.git
+[submodule "image-app-nodejs"]
+	path = image-app-nodejs
+	url = https://github.com/online-labs/image-app-nodejs.git
+[submodule "image-app-openvpn"]
+	path = image-app-openvpn
+	url = https://github.com/online-labs/image-app-openvpn.git
+[submodule "image-app-owncloud"]
+	path = image-app-owncloud
+	url = https://github.com/online-labs/image-app-owncloud.git
+[submodule "image-app-proxy"]
+	path = image-app-proxy
+	url = https://github.com/online-labs/image-app-proxy.git
+[submodule "image-app-pydio"]
+	path = image-app-pydio
+	url = https://github.com/online-labs/image-app-pydio.git
+[submodule "image-app-python"]
+	path = image-app-python
+	url = https://github.com/online-labs/image-app-python.git
+[submodule "image-app-seedbox"]
+	path = image-app-seedbox
+	url = https://github.com/online-labs/image-app-seedbox.git
+[submodule "image-app-timemachine"]
+	path = image-app-timemachine
+	url = https://github.com/online-labs/image-app-timemachine.git
+[submodule "image-app-ubuntu-desktop"]
+	path = image-app-ubuntu-desktop
+	url = https://github.com/online-labs/image-app-ubuntu-desktop.git
+[submodule "image-app-wordpress"]
+	path = image-app-wordpress
+	url = https://github.com/online-labs/image-app-wordpress.git
+[submodule "image-archlinux"]
+	path = image-archlinux
+	url = https://github.com/online-labs/image-archlinux.git
+[submodule "image-builder"]
+	path = image-builder
+	url = https://github.com/online-labs/image-builder.git
+[submodule "image-busybox"]
+	path = image-busybox
+	url = https://github.com/online-labs/image-busybox.git
+[submodule "image-debian"]
+	path = image-debian
+	url = https://github.com/online-labs/image-debian.git
+[submodule "image-fedora"]
+	path = image-fedora
+	url = https://github.com/online-labs/image-fedora.git
+[submodule "image-gentoo"]
+	path = image-gentoo
+	url = https://github.com/online-labs/image-gentoo.git
+[submodule "image-helloworld"]
+	path = image-helloworld
+	url = https://github.com/online-labs/image-helloworld.git
+[submodule "image-opensuse"]
+	path = image-opensuse
+	url = https://github.com/online-labs/image-opensuse.git
+[submodule "image-service-rescue"]
+	path = image-service-rescue
+	url = https://github.com/online-labs/image-service-rescue.git
+[submodule "image-service-travis"]
+	path = image-service-travis
+	url = https://github.com/online-labs/image-service-travis.git
+[submodule "image-service-tryit"]
+	path = image-service-tryit
+	url = https://github.com/online-labs/image-service-tryit.git
+[submodule "image-slackware"]
+	path = image-slackware
+	url = https://github.com/online-labs/image-slackware.git
+[submodule "image-tools"]
+	path = image-tools
+	url = https://github.com/online-labs/image-tools.git
+[submodule "image-ubuntu"]
+	path = image-ubuntu
+	url = https://github.com/online-labs/image-ubuntu.git
+[submodule "initrd"]
+	path = initrd
+	url = https://github.com/online-labs/initrd.git
+[submodule "juju-onlinelabs"]
+	path = juju-onlinelabs
+	url = https://github.com/online-labs/juju-onlinelabs.git
+[submodule "kernel-config"]
+	path = kernel-config
+	url = https://github.com/online-labs/kernel-config.git
+[submodule "ocs-scripts"]
+	path = ocs-scripts
+	url = https://github.com/online-labs/ocs-scripts.git
+[submodule "ocs-sdk"]
+	path = ocs-sdk
+	url = https://github.com/online-labs/ocs-sdk.git
+[submodule "port-range"]
+	path = port-range
+	url = https://github.com/online-labs/port-range.git
+[submodule "postal-address"]
+	path = postal-address
+	url = https://github.com/online-labs/postal-address.git
